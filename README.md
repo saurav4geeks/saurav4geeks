@@ -59,8 +59,8 @@
 ### Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=saurav4geeks&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav4geeks&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saurav4geeks&theme=github_dark" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saurav4geeks&theme=github_dark" />
 </div>
 
 <div align="center">
