@@ -64,7 +64,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=saurav4geeks&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurav4geeks&theme=github-compact&hide_border=true&area=true" />
 </div>
 
 <br/>
