@@ -20,7 +20,11 @@
 
 ### What I'm building
 
-**[Metis](https://github.com/saurav4geeks/metis)** &mdash; A knowledge graph context layer for AI coding tools. Captures architectural decisions, conventions, and gotchas into a structured graph, then compiles them into `CLAUDE.md`, `.cursor/rules/`, and other native context files automatically. Portable across tools, shareable across teams.
+**[Metis](https://github.com/saurav4geeks/metis)** &mdash; Knowledge graph context layer for AI coding tools. Compiles into `CLAUDE.md`, `.cursor/rules/`, and other native context files automatically.
+
+**[Aegis](https://github.com/saurav4geeks/aegis)** &mdash; Security spine for AI agents. Two products: **Sentinel** (prompt injection firewall — honeypot, mitmproxy, output scanner) and **Blackbox** (records every agent action with `rewind(to_step=N)` over reversible inverses).
+
+**[Interview Prep Coach](https://github.com/saurav4geeks/interview-prep-coach)** &mdash; Adaptive SWE interview tutor built as a Claude Cowork Skill. 8-week structured plan with a 5-step hint ladder, spaced repetition, bi-weekly assessments, and proactive daily pings.
 
 ---
 
@@ -32,18 +36,21 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
 **Backend & Data**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
 **Frontend & Tools**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![VS Code API](https://img.shields.io/badge/VS%20Code%20API-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
